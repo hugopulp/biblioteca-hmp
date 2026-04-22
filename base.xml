@@ -1,0 +1,11 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="base1.xsd">
+    <libro id="4442-AAAA">
+        <titulo>hola</titulo>
+        <autor>hola</autor>
+        <año>2025</año>
+        <paginas>63</paginas>
+        <sinopsis>sfgjsofghs</sinopsis>
+    </libro>
+</biblioteca>
